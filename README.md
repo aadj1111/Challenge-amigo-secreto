@@ -24,7 +24,23 @@
 <p> <strong>A continuación, te diré como hacer las pruebas desde tu computadora </strong></p>
 
 <h3>Paso 1: descarga el archivo .zip</h3>
+<div align="center"> <img src="./img/img7.png"> </div>
 
+<h3>Paso 2: abre la carpeta del proyecto en el VSC</h3>
+<div align="center"> <img src="./img/img8.png"> </div>
+
+<h3>Paso 3: selecciona la carpeta del proyecto</h3>
+<div align="center"> <img src="./img/img9.png"> </div>
+
+<h3>Paso 4: Ejecuta el Open Live Server</h3>
+<p> para ello, dirígete a la columna izquierda y busca el index.html</p>
+<div align="center"> <img src="./img/img10.png"> </div>
+
+<p> haz clic dereho y, tendrás el siguiente menú desplegable</p>
+<div align="center"> <img src="./img/img11.png"> </div>
+
+<h3>Paso 5: Ahora sí ¡A jugar!</h3>
+<div align="center"> <img src="./img/img1.png"> </div>
 
 <h2>Construido con 🛠️ </h2>
 
@@ -34,33 +50,5 @@ Estructura y diseño de la página: ![HTML](https://img.shields.io/badge/logo-HT
 
 Estilo visual: ![CSS](https://img.shields.io/badge/logo-CSS-blue?logo=CSS)
 
-
-
-
-
-Dropwizard - El framework web usado
-Maven - Manejador de dependencias
-ROME - Usado para generar RSS
-Contribuyendo 🖇️
-Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-Wiki 📖
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
-
-Versionado 📌
-Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
-
-Autores ✒️
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
-
-Andrés Villanueva - Trabajo Inicial - villanuevand
-Fulanito Detal - Documentación - fulanitodetal
-También puedes mirar la lista de todos los contribuyentes quíenes han participado en este proyecto.
-
-
-Expresiones de Gratitud 🎁
-Comenta a otros sobre este proyecto 📢
-Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-Da las gracias públicamente 🤓.
-Dona con cripto a esta dirección: 0xf253fc233333078436d111175e5a76a649890000
-etc.
+<h2>Autor ✒️</h2>
+Andrés Duque
