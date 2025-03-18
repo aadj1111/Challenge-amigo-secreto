@@ -1,2 +1,1 @@
-# Challenge-amigo-secreto
-A continuación, se presenta la lógica de programación en JavaScript del challenge del amigo secreto.
+<h1 align="center"> Challenge Amigo Secreto </h1>
